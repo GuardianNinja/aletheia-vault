@@ -1,0 +1,152 @@
+SPACE LEAF CORP NON‑PROFIT LICENSE (SLC‑NPL 1.0)
+================================================
+
+Preface: Purpose and Stewardship
+--------------------------------
+This license is created for the Space Leaf Corp Non‑Profit (“SLC”), whose mission
+is to protect, sustain, and empower community‑driven innovation through open
+technology, transparent governance, and ethical digital crypto ecosystems such
+as Leaf Coin.
+
+This license exists to ensure that:
+- The community retains access to the tools that protect their inventions.
+- The platform remains transparent, auditable, and accountable.
+- The economic model remains sustainable through the 2% weekly contribution rule.
+- No private entity may enclose, privatize, or exploit the system in ways that
+  undermine its non‑profit mission.
+
+This license is designed for long‑term stewardship of the people, the planet,
+and the future.
+
+---------------------------------------------------------------------
+
+Section 1 — Grant of Permission
+-------------------------------
+Space Leaf Corp grants any individual or organization permission to:
+
+1. Use, copy, and modify the software and documentation.
+2. Deploy the software for personal, educational, research, or commercial use.
+3. Build upon the software to create new tools, services, or platforms.
+
+These permissions are granted **as long as the conditions in Section 2 are met**.
+
+---------------------------------------------------------------------
+
+Section 2 — Conditions of Use
+-----------------------------
+
+### 2.1 Mission Alignment
+Any use of this software must:
+- Support community benefit,
+- Maintain transparency in financial flows,
+- Avoid exploitation of inventors, contributors, or users,
+- Respect the non‑profit purpose of Space Leaf Corp.
+
+### 2.2 Transparency Requirement
+Any deployment of this software that handles:
+- Digital assets,
+- Royalties,
+- Licensing flows,
+- Crypto tokens,
+- Market transactions,
+
+must provide **publicly accessible transparency reports** at least quarterly.
+
+These reports must include:
+- Total transaction volume,
+- Total payouts to creators,
+- Total platform fees collected,
+- Total contributions to the JARVONDIS Reserve.
+
+### 2.3 2% Weekly Contribution Rule
+Any system, platform, or organization using this software for:
+- Investor markets,
+- Franchise markets,
+- Public crypto markets,
+- Tokenized royalty systems,
+- Automated smart‑contract payouts,
+
+must automatically route **2% of gross weekly transaction volume** into a
+designated **Sustainability Reserve**.
+
+For Space Leaf Corp deployments, this is the **JARVONDIS Reserve**.
+
+For third‑party deployments, the reserve must:
+- Be publicly auditable,
+- Be used exclusively for community benefit,
+- Not be diverted for private profit,
+- Maintain a minimum safety threshold defined by governance.
+
+### 2.4 Non‑Profit Integrity Clause
+This software may **not** be used to:
+- Create private, closed, or extractive versions of the system,
+- Remove transparency features,
+- Circumvent the 2% contribution rule,
+- Misrepresent affiliation with Space Leaf Corp.
+
+Commercial use is allowed **only if the above conditions are honored**.
+
+---------------------------------------------------------------------
+
+Section 3 — Attribution
+-----------------------
+Any public use, deployment, or redistribution must include:
+
+“Powered by Aletheia Vault — Space Leaf Corp Non‑Profit License (SLC‑NPL 1.0)”
+
+Attribution must remain visible in:
+- Documentation,
+- User interfaces (footer or about page),
+- Public transparency reports.
+
+---------------------------------------------------------------------
+
+Section 4 — No Warranty
+-----------------------
+This software is provided “AS IS,” without warranty of any kind. Space Leaf Corp
+is not liable for damages arising from use, misuse, or failure of the software.
+
+---------------------------------------------------------------------
+
+Section 5 — Community Governance
+--------------------------------
+This license is overseen by the Space Leaf Corp Non‑Profit Governance Council.
+
+The council may:
+- Update the license for clarity or mission protection,
+- Define reserve thresholds,
+- Establish transparency standards,
+- Enforce compliance for public deployments.
+
+All changes must be:
+- Publicly announced,
+- Versioned,
+- Community‑reviewed.
+
+---------------------------------------------------------------------
+
+Section 6 — Termination
+-----------------------
+Permission under this license terminates automatically if:
+- The 2% weekly contribution rule is bypassed,
+- Transparency reports are falsified or withheld,
+- The software is used for extractive or exploitative purposes,
+- Attribution is removed or obscured.
+
+Upon termination:
+- All rights granted under this license cease immediately.
+- The user must discontinue use and remove all deployments.
+
+---------------------------------------------------------------------
+
+Section 7 — Reinstatement
+-------------------------
+Rights may be reinstated if:
+- Violations are corrected,
+- Transparency is restored,
+- Missing contributions are repaid,
+- Governance council approves reinstatement.
+
+---------------------------------------------------------------------
+
+END OF LICENSE
